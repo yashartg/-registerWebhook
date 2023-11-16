@@ -1,10 +1,10 @@
 /**
- * https://github.com/amirwolf5122/Telegram-time-group-bot
+ * https://github.com/yashartg/-registerWebhook/tree/main
  */
 
 const TOKEN = '6980769726:AAG7k2gLOrG6Em2c7zXWdMq8jJvbiTpiuVc' // Get it from @BotFather https://core.telegram.org/bots#6-botfather
 const NAME = "time" //Name group Or Channel
-const IDCHAT = -1001966565849 // Get it from @chatIDrobot  ## Getting the numerical ID of a group or channel.
+const IDCHAT = -1001947462566 // Get it from @chatIDrobot  ## Getting the numerical ID of a group or channel.
 const TIMEZON = 'Asia/Tehran' // The timezone of your country
 const WEBHOOK = '/endpoint'// No need to edit
 const SECRET = 'QUEVEDO_BZRP_Music_Sessions_52' // No need to edit
