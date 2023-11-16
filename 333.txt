@@ -1,5 +1,5 @@
 /**
- * https://github.com/yashartg/-registerWebhook/tree/main
+ * https://github.com/yashartg/telegram_sg_group_bot
  */
 
 const TOKEN = '6980769726:AAG7k2gLOrG6Em2c7zXWdMq8jJvbiTpiuVc' // Get it from @BotFather https://core.telegram.org/bots#6-botfather
